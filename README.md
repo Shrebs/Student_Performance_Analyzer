@@ -113,6 +113,20 @@ The dashboard allows users to:
 
 ---
 
+## 📸 Project Screenshots
+
+### 📊 Dashboard Overview
+![Dashboard](results/BDA_outout_1.png)
+![Dashboard](results/BDA_outout_2.png)
+![Dashboard](results/BDA_outout_3.png) 
+![Dashboard](results/BDA_outout_4.png)
+![Dashboard](results/BDA_outout_5.png)
+![Dashboard](results/BDA_outout_6.png)
+
+
+---
+
+
 ## 💡 Project Insight
 
 > This project transforms raw student data into meaningful insights using data analytics and visualization, helping understand performance trends and influencing factors.
