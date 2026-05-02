@@ -116,12 +116,12 @@ The dashboard allows users to:
 ## 📸 Project Screenshots
 
 ### 📊 Dashboard Overview
-![Dashboard](results/BDA_outout_1.png)
-![Dashboard](results/BDA_outout_2.png)
-![Dashboard](results/BDA_outout_3.png) 
-![Dashboard](results/BDA_outout_4.png)
-![Dashboard](results/BDA_outout_5.png)
-![Dashboard](results/BDA_outout_6.png)
+![Dashboard](results/BDA_outut_1.png)
+![Dashboard](results/BDA_output_2.png)
+![Dashboard](results/BDA_output_3.png) 
+![Dashboard](results/BDA_output_4.png)
+![Dashboard](results/BDA_output_5.png)
+![Dashboard](results/BDA_output_6.png)
 
 
 ---
