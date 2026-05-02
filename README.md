@@ -66,8 +66,8 @@ The dataset contains **200 student records** with the following attributes:
 ### 🔹 Clone the Repository
 
 ```bash
-git clone <your_repo_link>
-cd <your_repo_name>
+git clone git@github.com:Shrebs/Student_Performance_Analyzer.git
+cd Student_Performance_Analyzer
 ```
 
 ### 🔹 Install Dependencies
