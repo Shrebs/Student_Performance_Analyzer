@@ -116,7 +116,7 @@ The dashboard allows users to:
 ## 📸 Project Screenshots
 
 ### 📊 Dashboard Overview
-![Dashboard](results/BDA_outut_1.png)
+![Dashboard](results/BDA_output_1.png)
 ![Dashboard](results/BDA_output_2.png)
 ![Dashboard](results/BDA_output_3.png) 
 ![Dashboard](results/BDA_output_4.png)
